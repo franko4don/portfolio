@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css?family=Arsenal');
+.wrapper{
+    background-image: url('../images/background2.jpg');
+    background-size: cover;
+    min-height: 640px;
+    background-position: center center;
+    height: auto;
+}
+
+.overlay{
+    position: absolute;
+    background-color: rgba(0,0,105,0.3);
+    z-index: 3;
+    top: 0;
+    left: 0;
+    right: 0;
+    min-height: inherit;
+}
+
+li > a{
+    color: white;
+    font-size: 16px;
+}
+
+li:hover{
+    color: white;
+    background-color: transparent;
+}
+
+.row{
+    color: white;
+    font-weight: lighter;
+}
+
+.intro{
+    font-size: 23px;
+    font-weight: lighter;
+    font-family: 'Arsenal';
+}
+
+body{
+    font-family: sans-serif;
+}
+
+a{
+    color: white;
+}
+
+#thanks{
+    margin-top: 100px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.row{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0;
+}
+
+#what-i-do{
+    color: black; 
+    margin: 0;
+    font-size: 18px;
+    font-family: 'Arsenal';
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#tools-i-use{
+    background-color: #343a40;
+    padding-top: 20px;
+    padding-bottom: 60px;
+    font-size: 18px;
+    font-family: 'Arsenal';
+}
+
+#frameworks-i-use{
+    padding-top: 20px;
+    padding-bottom: 40px;
+    font-family: 'Arsenal';
+    color: black;
+}
+
+#projects-worked-on{
+    background-color: #343a40;
+    font-family: 'Arsenal';
+    padding-bottom: 40px;
+     font-size: 18px; 
+}
+
+#lets-get-in-touch{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: black;
+    font-family: 'Arsenal'
+}
+
+#lets-get-in-touch a{
+    color: black;
+}
+
+.space{
+    margin-bottom: 30px;
+}
