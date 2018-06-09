@@ -84,7 +84,7 @@ h1{
     color: black;
 }
 
-#projects-worked-on{
+.projects-worked-on{
     background-color: #343a40;
     font-family: 'Arsenal';
     padding-bottom: 40px;
