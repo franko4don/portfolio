@@ -35,11 +35,11 @@ li:hover{
 .intro{
     font-size: 23px;
     font-weight: lighter;
-    font-family: 'Arsenal';
+    
 }
 
 body{
-    font-family: sans-serif;
+    font-family: 'Lato';
 }
 
 a{
@@ -64,29 +64,29 @@ h1{
     color: black; 
     margin: 0;
     font-size: 18px;
-    font-family: 'Arsenal';
+    
     padding-top: 50px;
     padding-bottom: 50px;
 }
 
 #tools-i-use{
-    background-color: #343a40;
+    background-color: #4199f1;
     padding-top: 20px;
-    padding-bottom: 60px;
+    /* padding-bottom: 60px; */
     font-size: 18px;
-    font-family: 'Arsenal';
+    font-family: 'lato';
 }
 
 #frameworks-i-use{
     padding-top: 20px;
     padding-bottom: 40px;
-    font-family: 'Arsenal';
+    
     color: black;
 }
 
 .projects-worked-on{
     background-color: #343a40;
-    font-family: 'Arsenal';
+    
     padding-bottom: 40px;
      font-size: 18px; 
 }
