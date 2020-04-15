@@ -70,8 +70,9 @@ h1{
 }
 
 #tools-i-use{
-    background-color: #4199f1;
+    /* background-color: #4199f1; */
     padding-top: 20px;
+    color: black;
     /* padding-bottom: 60px; */
     font-size: 18px;
     font-family: 'lato';
